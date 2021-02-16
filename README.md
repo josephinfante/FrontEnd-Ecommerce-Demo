@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## To Start the project follow the next steps
+
+first install nodejs using the next link https://nodejs.org/en/ download the recommended version
+secong install angular using the next command npm install -g @angular/cli
+third open a console on the project root and execute the next command npm i
+last step to start the server execute ng serve -o and it will popup a window with the project
